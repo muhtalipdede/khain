@@ -11,7 +11,7 @@ npm run start
 
 Example Result
 
-```json
+```javascript
 [
   {
     index: 0,
